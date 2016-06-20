@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GPS</string>
+    <string name="label">GPS</string>
+    <string name="OK">Ok</string>
+    <string name="CANCEL">Cancel</string>
+    <string name="CLOSE">Close</string>
+    <string name="ALERT">Alert</string>
+    <string name="NL">\n</string>
+    <string name="UP_DOWN_ARROW">↕</string>
+    <string name="LEFT_RIGHT_ARROW">↔</string>
+</resources>
